@@ -1,0 +1,17 @@
+@media (max-width: 1023px) {
+    .slide--bar {
+        width: 70px;
+        height: calc(100vh - 90px)
+    }
+
+    .slide--bar img {
+        width: 100%;
+    }
+}
+
+@media (max-width: 740px) {
+    body {
+        display: none;
+    }
+}
+
