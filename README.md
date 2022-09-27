@@ -1,6 +1,6 @@
 # Music Web
-### Sử dụng html, css, javascript, php làm một web nghe nhạc có khả năng phát nhạc.
-### Sử dụng Xampp và kết nối database.
+#### Sử dụng html, css, javascript, php làm một web nghe nhạc có khả năng phát nhạc.
+#### Sử dụng Xampp và kết nối database.
 # Đồ án môn học SE104
 ## Các thành viên
 | Nhiệm vụ | Họ tên |
